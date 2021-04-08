@@ -1,6 +1,24 @@
-# StudyRubyonRails
-Rudy on Rails の勉強です。
+# README
 
-## ディレクトリ構成
-*0_doc* 開発資料(memo, ref など)  
-*1_src* 開発内容  
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
